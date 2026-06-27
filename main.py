@@ -20,7 +20,7 @@ except ImportError:
 # 配置区域
 # ==============================================================================
 RENEW_URLS = [
-    "https://host2play.gratis/server/renew?i=292ceb99-072c-45d7-b41d-79ea0971ed8c",
+    "https://host2play.gratis/server/renew?i=3f82059e-b561-4ea0-af4b-18eb5be0a40d",
     # 添加更多链接
 ]
 
